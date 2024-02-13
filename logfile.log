@@ -1,0 +1,6 @@
+[2024-02-05 12:02:24.090290  7a0][ERROR ] no such column: unused1:
+SELECT unused1 FROM "user";
+[2024-02-05 12:02:24.091561  7a0][ERROR ] no such column: softkeyboardSet:
+SELECT softkeyboardSet FROM profile;
+[2024-02-05 12:02:24.552662  7a0][ERROR ] no such column: password:
+SELECT password FROM cert;
